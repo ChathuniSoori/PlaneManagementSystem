@@ -1,0 +1,2 @@
+# PlaneManagementSystem
+ This repository contains the source code for a Plane Management System, a Java application designed to handle seat bookings, cancellations, and ticket management for an airplane. The application features a user-friendly console interface that allows users to buy and cancel seats, view the seating plan, find the first available seat, search for tickets, and print ticket information along with total sales.
